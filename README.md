@@ -12,7 +12,8 @@ Every solution is written by me, with a short note on what I learned.
 
 On Codewars, difficulty goes from **8 kyu (easiest)** to **1 kyu (hardest)**.
 
-- [8 kyu – beginner](codewars/8kyu)
+- [8 kyu – beginner](exercises-python/codewars
+/8kyu)
 - [7 kyu – easy](codewars/7kyu)
 - [6 kyu – intermediate](codewars/6kyu)
 ## File format
