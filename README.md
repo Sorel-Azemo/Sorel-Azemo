@@ -10,6 +10,12 @@ After studying industrial engineering (construction) at ECAM, I'm retraining in 
 ## 📂 Projects
 - [exercices-python](https://github.com/USERNAME/exercices-python): daily Python practice (Codewars)
 - *Coming soon: data warehouse project*
+- 
+## Codewars progress
+
+| # | Kata | Level | Concept |
+|---|------|-------|---------|
+| 01 | [Drink about](https://www.codewars.com/kata/56170e844da7c6f647000063) | 8 kyu | if/elif/else conditions |
 
 ## 📫 Contact
 [LinkedIn](www.linkedin.com/in/sorel-azemo)
