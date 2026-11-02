@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm [Prénom] 👋
 
-<!--
-**Sorel-Azemo/Sorel-Azemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Data Engineer** based in Charleroi, Belgium.
+After studying industrial engineering (construction) at ECAM, I'm retraining in data engineering.
 
-Here are some ideas to get you started:
+## 🔧 What I'm learning
+- Python, SQL, Git
+- Data warehousing and data pipelines (ETL/ELT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [exercices-python](https://github.com/USERNAME/exercices-python): daily Python practice (Codewars)
+- *Coming soon: data warehouse project*
+
+## 📫 Contact
+[LinkedIn](www.linkedin.com/in/sorel-azemo)
