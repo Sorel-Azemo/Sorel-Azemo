@@ -27,5 +27,5 @@ Python · SQL · Git · GitHub
 - DataCamp: *Associate Data Engineer in SQL* and *Data Engineer in Python* (in progress)
 
 ## 📫 Let's connect
-- [LinkedIn](https://www.linkedin.com/in/TON-PROFIL)
-- [Codewars](https://www.codewars.com/users/TON-PSEUDO)
+- [LinkedIn](https://www.linkedin.com/in/sorel-azemo/)
+- [Codewars](https://www.codewars.com/users/SorelData)
