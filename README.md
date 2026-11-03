@@ -1,37 +1,31 @@
 # Hi, I'm Sorel 👋
 
-Aspiring **Data Engineer** based in Charleroi, Belgium.
-After studying industrial engineering (construction) at ECAM, I'm retraining in data engineering.
+Aspiring **Data Engineer** based in Charleroi, Belgium 🇧🇪
 
-# Python Exercises
+I studied industrial engineering (construction) at ECAM, where I discovered
+Python. I'm now retraining in data engineering and learning in public:
+every exercise and project I build ends up here.
 
-My daily Python practice to build solid fundamentals for data engineering.
-Every solution is written by me, with a short note on what I learned.
-
-## Codewar exercises
-
-On Codewars, difficulty goes from **8 kyu (easiest)** to **1 kyu (hardest)**.
-
-- [8 kyu – beginner](exercises-python/codewars
-/8kyu)
-- [7 kyu – easy](codewars/7kyu)
-- [6 kyu – intermediate](codewars/6kyu)
-## File format
-
-Each file is named `NN_kata_name.py` and starts with:
-- the kata name, level and link
-- the date solved
-- what I learned
-
-## My Codewars profile
-
-[![Codewars](https://www.codewars.com/users/TON-PSEUDO/badges/large)](https://www.codewars.com/users/TON-PSEUDO)
+## 🎯 Current focus
+- **Python**: fundamentals and daily practice on Codewars
+- **SQL**: querying, joins, database design
+- **Git & GitHub**: version control for all my work
+- Next: data warehousing, ETL pipelines, Apache Airflow
 
 ## 📂 Projects
-- [exercices-python](https://github.com/USERNAME/exercices-python): daily Python practice (Codewars)
-- *Coming soon: data warehouse project*
-- 
+| Project | Description | Status |
+|---|---|---|
+| [exercises-python](https://github.com/Sorel-Azemo/exercises-python) | Daily Python practice: Codewars katas organized by level | 🟢 Ongoing |
+| Data warehouse | Building a data warehouse with a star schema in SQL | 🔜 Coming soon |
+| Data analysis | Business questions answered from my data warehouse | 🔜 Coming soon |
+| Data pipeline | Python pipeline loading new data into the warehouse | 🔜 Coming soon |
 
+## 🛠️ Tools
+Python · SQL · Git · GitHub
 
-## 📫 Contact
-[LinkedIn](www.linkedin.com/in/sorel-azemo)
+## 📜 Learning path
+- DataCamp: *Associate Data Engineer in SQL* and *Data Engineer in Python* (in progress)
+
+## 📫 Let's connect
+- [LinkedIn](https://www.linkedin.com/in/TON-PROFIL)
+- [Codewars](https://www.codewars.com/users/TON-PSEUDO)
